@@ -14,8 +14,4 @@ MIME-типы — спецификация для передачи по сети
 '.eot' : 'application/vnd.ms-fontobject'
 '.otf' : 'application/font-otf'
 '.wasm' : 'application/wasm'
-uiui
-]
-\;[]uiguiui
-
-fgdfg
+ 
